@@ -1,0 +1,7 @@
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projExemploInterface\projExemploInterface\bin\Debug\projExemploInterface.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projExemploInterface\projExemploInterface\bin\Debug\projExemploInterface.pdb
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projExemploInterface\projExemploInterface\obj\x86\Debug\projExemploInterface.Form1.resources
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projExemploInterface\projExemploInterface\obj\x86\Debug\projExemploInterface.Properties.Resources.resources
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projExemploInterface\projExemploInterface\obj\x86\Debug\projExemploInterface.csproj.GenerateResource.Cache
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projExemploInterface\projExemploInterface\obj\x86\Debug\projExemploInterface.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projExemploInterface\projExemploInterface\obj\x86\Debug\projExemploInterface.pdb
